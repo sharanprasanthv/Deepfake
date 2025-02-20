@@ -1,0 +1,6 @@
+About Dataset
+Celeb-DF (v2) dataset contains real and DeepFake synthesized videos having similar visual quality on par with those circulated online.
+The Celeb-DF (v2) dataset is greatly extended from our previous Celeb-DF (v1), which only contains 795 DeepFake videos.
+To date, Celeb-DF includes 590 original videos collected from YouTube with subjects of different ages, ethic groups and genders, and 5639 corresponding DeepFake videos.
+
+Download link :  https://www.kaggle.com/datasets/reubensuju/celeb-df-v2
